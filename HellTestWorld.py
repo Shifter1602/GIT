@@ -11,11 +11,11 @@ print("End the program of HellTestWorld")'''
 
 a=2
 b=1
-for i in range(1, 9999):
-    l = "oooooooooo"
+for i in range(1, 1999):
+    l = "oooooooooooooooooooooooooooooo"
     for j in range(a):
         l=" "+l
-    if a==52:
+    if a==152:
         b=-1
     elif a==2:
         b=1
