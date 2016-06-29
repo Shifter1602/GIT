@@ -1,4 +1,4 @@
-import math
+'''import math
 import random
 
 for i in range(1,80):
@@ -7,4 +7,18 @@ for i in range(1,80):
         a=a-100.1111111
     print(a)
 
-print("End the program of HellTestWorld")
+print("End the program of HellTestWorld")'''
+
+a=2
+b=1
+for i in range(1, 9999):
+    l = "oooooooooo"
+    for j in range(a):
+        l=" "+l
+    if a==52:
+        b=-1
+    elif a==2:
+        b=1
+    a+=b
+    print(l)
+    
