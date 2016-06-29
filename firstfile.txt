@@ -1,3 +1,7 @@
 This is my first git file
 Edited
+<<<<<<< HEAD
 Branched
+=======
+Forni did it
+>>>>>>> refs/remotes/origin/master
