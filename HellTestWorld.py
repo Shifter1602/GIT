@@ -1,3 +1,4 @@
+print("Begin the program of HellTestWorld")
 '''import math
 import random
 
@@ -12,7 +13,7 @@ print("End the program of HellTestWorld")'''
 a=2
 b=1
 for i in range(1, 1999):
-    l = "oooooooooooooooooooooooooooooo"
+    l = "oOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoO"
     for j in range(a):
         l=" "+l
     if a==152:
@@ -21,4 +22,5 @@ for i in range(1, 1999):
         b=1
     a+=b
     print(l)
-    
+
+print("NewEnd the program of HellTestWorld")
